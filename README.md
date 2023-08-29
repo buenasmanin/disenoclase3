@@ -1,2 +1,2 @@
-# disenoclase3
+# disenosoftware
 diseño
